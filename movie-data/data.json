@@ -1,0 +1,66 @@
+{
+  "itemsCount": 12,
+  "itemsPerPage": 3,
+  "data": [
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABc2m2gAl_NDwPZf4vpHaM-Y9t-j4yRhzPyCEUtIdJfp1mr0xGmdtCeIbpoU2FLyrv5E5TfDd3P0R-RS4xYThSAuAzxdFIECBPWs.jpg?r=4fc",
+      "name": "Toy Story",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABVqlT9xl2tsdACTIAPQ_XcKlQNSEXcO4Lvyx6sH-dtU6cAC4_4_ZY251YZL5Qopltb7mTxzLqzuTI5GAwkTIB5jQKw3xZ0eVrM8.jpg?r=2ef",
+      "name": "Super Mario",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABf1lYm-GEzGIHZ7CG4ZGVeOq13g4Qoyfy0N8dIJ3MiqtVI4vkcEaOWIrv_vozn7SAnULs4rB5UvkAk7Ym53nyUnd9hTzh9li9WU.jpg?r=580",
+      "name": "Batman",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABeBFZQivajBwe1euB1W6Dv_6lpcIxlP399DbaCVKe9gdd9iiIQdkNBqEPZL34f3s8hEqBNUxMzsJI1Curlw3n0U7XSjItEAXi3b0PxZITdYGBu-BakYGAAbC0VFznl-mIwkA.jpg?r=377",
+      "name": "Spiderman",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABTs7vJY2oFAYrc8EBHZ_AjtasKINjjSplJ4nxSFEI9hreSghip2RrUeZpH-an7JDTPWme56_0q8BlnyWkNJp0-UJe411xaw5dqsA2EnguXBlLA2eBObdq6axFhFl7ODE7mlR.jpg?r=4d9",
+      "name": "Superman",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdh_xMupOtg7ZOy8VemfCYetNyUpeHj4LDOycGPezvTX22N8uVlzqTGzyuhreg1oExrfE_SU6tW_YGg_H6BHHpglCKhVeEHlBh3SI3W0elXwmd_dd47ZxVd1z3cw3n303JFauZ6PmwL6Cg7YvjH2g1w3tvVa9Aimhf17VPYJQeE53q5EZtzcEJgRzwAUFCQ.jpg?r=4d2",
+      "name": "Toy Story",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABbxgQqmtgCTtSHI7IXELpxVhlZ5eZjrr3RQYU2syr5rf1-8K9Eueo2qryJ8EcQ8sqmuNrVXPts7-cf1fQEVayvGiDe03Dpf2oxA.jpg?r=bd6",
+      "name": "Toy Story",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdgeKBkmFAFt-fXRL_6gXbT2gBF9NDGFrXJq3Cgm-pdpqsRCzWvHKVrJxHcXrdWdMxU0EDcffk8IcsJvNAVevMYnh_YOj0vvIsA.jpg?r=0e3",
+      "name": "Toy Story",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABbzBukwj-wl3qePSdFwS-Nwy6BGO7tIdqQ0oFSWYKqpdhrmIcLeD0CYnBd81oVLyS7eu5sROjfsOCmJmxso3w8xcqDcCdNitNN6nUpm2nLIKIbB7PUAsftFJnfhUpQk0tEi0.jpg?r=8a4",
+      "name": "Toy Story",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXWrmf4G6yFf7wFB7w9pQiCWxFZZHkrvKmCQETFmnGKpAjOGav-rnRll8J0l4GxghmB50QtKfk3Jbf7IxvewG9wL3UhsMN1P4fE.jpg?r=3c6",
+      "name": "Toy Story",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABeykmqRj8BIUONy2D1t_UG9_APN0rS6IpOwSWQ0Ta0gokkTgNWrCEzAyRad6JyA1GyTHPcz4uLA_lK6tD-fPX2zxZQmbpJ1gXro.jpg?r=ab5",
+      "name": "Toy Story",
+      "rating": 78
+    },
+    {
+      "imgSrc": "https://occ-0-6442-3646.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQfa9TvYJ9Z09BqrIOENTUh9SXaLCg-rgsja4tedwAj6laPZORPSgFf6J5Z60V-a-1tKYvjPxNA9-pLVxUBJDAJy90Ah6hn4JLg.jpg?r=ec5",
+      "name": "Toy Story",
+      "rating": 78
+    }
+  ]
+}
